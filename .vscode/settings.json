@@ -1,5 +1,11 @@
 {
     "cSpell.words": [
-        "ipynb"
+        "ipynb",
+        "joblib",
+        "matplotlib",
+        "mlflow",
+        "numpy",
+        "sklearn",
+        "tqdm"
     ]
 }
